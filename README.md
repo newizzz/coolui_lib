@@ -1,5 +1,4 @@
-# coolui_lib
-cool ui lib. source: https://v3rmillion.net/showthread.php?tid=1151036
+# Cool UI probably made by Enxquity
 
 Create a UI: Lib.UI(Name)
 
